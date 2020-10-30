@@ -174,9 +174,9 @@ Line 62% (113/182)
 ````
 ### Preparing report (time spent: 3 hours)
 Mentionable Notes:
-- Kotlin headaches throw mapping from java to kotlin (especial null checking)
+- Kotlin headaches throw mapping from java to kotlin (especially null checking)
 - Kafka embedded test setup: real nightmare
-- Experimenting cassandra compaction performance impact seems interesting by considering heavy update behaviour.
+- Experimenting cassandra Leveled compaction performance impact seems interesting by considering heavy update behaviour.
 - Providing Docker Compose for easy setup
 ````html
 “You'll never reach perfection because there's always room for improvement. 
